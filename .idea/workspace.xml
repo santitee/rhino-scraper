@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="366fbbb3-9cd4-456b-b296-c24c6ece8c33" name="Default Changelist" comment="" />
+    <list default="true" id="366fbbb3-9cd4-456b-b296-c24c6ece8c33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rhinofacts.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +36,10 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="minikube" />
     <option name="namespace" value="default" />
@@ -68,6 +93,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -76,21 +112,29 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="217" y="365" key="#Go_Modules/0.0.1680.1050@0.0.1680.1050" timestamp="1604910819168" />
-    <state width="805" height="287" key="GridCell.Tab.0.bottom" timestamp="1604913142139">
+    <state width="1878" height="296" key="GridCell.Tab.0.bottom" timestamp="1605232804312">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="805" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604913651648" />
+    <state width="1878" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605232804312" />
+    <state width="1878" height="296" key="GridCell.Tab.0.center" timestamp="1605232804309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="805" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604913651644" />
+    <state width="1878" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605232804309" />
+    <state width="1878" height="296" key="GridCell.Tab.0.left" timestamp="1605232804308">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="805" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604913651642" />
+    <state width="1878" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605232804308" />
+    <state width="1878" height="296" key="GridCell.Tab.0.right" timestamp="1605232804310">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="805" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604913651647" />
+    <state width="1878" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605232804310" />
+    <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605237573199">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="805" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604913142139" />
-    <state width="805" height="287" key="GridCell.Tab.0.center" timestamp="1604913142134">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="805" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604913142134" />
-    <state width="805" height="287" key="GridCell.Tab.0.left" timestamp="1604913142131">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="805" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604913142131" />
-    <state width="805" height="287" key="GridCell.Tab.0.right" timestamp="1604913142137">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="805" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604913142137" />
+    <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1605237573199" />
   </component>
 </project>
